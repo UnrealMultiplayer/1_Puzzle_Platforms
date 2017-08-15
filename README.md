@@ -8,3 +8,10 @@ Teaching the basic client server model and get multiple instances connected thro
 + Source control and where to get code.
 + Reading the slides
 + Our rich community
+
+### 2 Surveying the Multiplayer Space ###
+
++ Outlining the journey
++ Overview of multiplayer game types
++ Creating the base project
++ Sharing our ambitions
