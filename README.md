@@ -15,3 +15,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Overview of multiplayer game types
 + Creating the base project
 + Sharing our ambitions
+
+### 3 Connecting Two Players ###
+
++ Testing with multiple players
++ What's under the hood
++ Adding "Player Starts"
