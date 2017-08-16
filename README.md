@@ -22,3 +22,10 @@ Teaching the basic client server model and get multiple instances connected thro
 + Overview of multiplayer game types
 + Outlining the journey
 + Sharing our ambitions
+
+### 4 Meet the Client-Server Model ###
+
++ Client-Server vs Peer-to-Peer
++ Launching a game from the command-line
++ Launching a dedicated server
++ Join with clients
