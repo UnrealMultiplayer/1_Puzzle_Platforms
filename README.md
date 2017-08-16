@@ -16,3 +16,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Our community site
 + Reading the slides
 + Our rich community
+
+### 3 Surveying the Multiplayer Space ###
+
++ Overview of multiplayer game types
++ Outlining the journey
++ Sharing our ambitions
