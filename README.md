@@ -35,3 +35,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Create a `AStaticMeshActor` subclass
 + Adding mobility in C++
 + Running code only on the server
+
+### 6 Authority and Replication ###
+
++ Understand Actor "Authority"
++ Enable replication of movement
++ What happens with disagreement
