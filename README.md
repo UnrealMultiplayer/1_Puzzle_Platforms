@@ -29,3 +29,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Launching a game from the command-line
 + Launching a dedicated server
 + Join with clients
+
+### 5 Detecting Where Code is Running ###
+
++ Create a `AStaticMeshActor` subclass
++ Adding mobility in C++
++ Running code only on the server
