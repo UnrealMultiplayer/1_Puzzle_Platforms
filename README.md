@@ -53,3 +53,8 @@ Teaching the basic client server model and get multiple instances connected thro
 + What we want to achieve.
 + Continuing past the target.
 + Swapping the start and target.
+
+### 9 Setup A Simple Puzzle ###
+
++ Better jump controls.
++ Layout a puzzle.
