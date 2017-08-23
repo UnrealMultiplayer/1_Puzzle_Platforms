@@ -65,3 +65,10 @@ Teaching the basic client server model and get multiple instances connected thro
 + Add a box component.
 + Tweak the Blueprint.
 + Place it in the world.
+
+### 11 Handling Overlap Events in C++ ###
+
++ Implement the handler function.
++ Register the event callback.
++ Reloading the map to call constructors.
++ Repeat for `EndOverlap`.
