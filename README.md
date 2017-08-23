@@ -47,3 +47,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Adding 3D gizmos to a UPROPERTY.
 + Vector for A to B travel.
 + Moving our platform.
+
+### 8 Sending The Platform Back ###
+
++ What we want to achieve.
++ Continuing past the target.
++ Swapping the start and target.
