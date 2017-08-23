@@ -54,7 +54,14 @@ Teaching the basic client server model and get multiple instances connected thro
 + Continuing past the target.
 + Swapping the start and target.
 
-### 9 Setup A Simple Puzzle ###
+### 9 Set Up A Simple Puzzle ###
 
 + Better jump controls.
 + Layout a puzzle.
+
+### 10 Set Up A Platform Trigger ###
+
++ Create the C++ class.
++ Add a box component.
++ Tweak the Blueprint.
++ Place it in the world.
