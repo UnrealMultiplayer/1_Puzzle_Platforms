@@ -59,6 +59,13 @@ Teaching the basic client server model and get multiple instances connected thro
 + Better jump controls.
 + Layout a puzzle.
 
+### 9b Playing Over The Internet ###
+
++ Local vs global internet.
++ Simulating LAN with Hamachi.
++ Connecting Unreal over Hamachi.
++ Getting connected with others.
+
 ### 10 Set Up A Platform Trigger ###
 
 + Create the C++ class.
