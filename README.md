@@ -100,3 +100,10 @@ Teaching the basic client server model and get multiple instances connected thro
 + Creating out own.
 + How to log to the screen from C++.
 + Dealing with arguments.
+
+### 15 Hosting Servers With ServerTravel ###
+
++ Creating a Lobby.
++ What is travelling?
++ Hosting a server with travel.
++ Testing with and without `?listen`.
