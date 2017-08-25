@@ -73,9 +73,16 @@ Teaching the basic client server model and get multiple instances connected thro
 + Tweak the Blueprint.
 + Place it in the world.
 
-### 11 Handling Overlap Events in C++ ###
+### 11 Handling Overlap Events In C++ ###
 
 + Implement the handler function.
 + Register the event callback.
 + Reloading the map to call constructors.
 + Repeat for `EndOverlap`.
+
+### 12 Activating Platforms From Triggers ###
+
++ The desired behaviour.
++ Creating the platform interface.
++ TArray for hooking up platforms.
++ Implementing the logic.
