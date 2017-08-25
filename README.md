@@ -92,3 +92,11 @@ Teaching the basic client server model and get multiple instances connected thro
 + What is a `GameInstance`?
 + Set a custom `GameInstance` for you project.
 + Init vs Constructor.
+
+### 14 Console Commands With Exec ###
+
++ What is the console.
++ What classes support Exec functions.
++ Creating out own.
++ How to log to the screen from C++.
++ Dealing with arguments.
