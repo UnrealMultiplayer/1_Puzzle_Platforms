@@ -86,3 +86,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Creating the platform interface.
 + TArray for hooking up platforms.
 + Implementing the logic.
+
+### 13 When To Use A GameInstance ###
+
++ What is a `GameInstance`?
++ Set a custom `GameInstance` for you project.
++ Init vs Constructor.
