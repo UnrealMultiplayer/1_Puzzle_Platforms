@@ -107,3 +107,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + What is travelling?
 + Hosting a server with travel.
 + Testing with and without `?listen`.
+
+### 16 Joining Servers With ClientTravel ###
+
++ `ClientTravel` vs `ServerTravel`.
++ Getting the `PlayerController`.
++ Implementing `ClientTravel`.
