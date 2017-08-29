@@ -113,3 +113,10 @@ Teaching the basic client server model and get multiple instances connected thro
 + `ClientTravel` vs `ServerTravel`.
 + Getting the `PlayerController`.
 + Implementing `ClientTravel`.
+
+### 17 Sharing Your Game On Itch.io ###
+
++ Building your game.
++ Introduction to Itch.io.
++ A note on security.
++ Sharing our game.
