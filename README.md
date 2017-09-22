@@ -2,6 +2,18 @@
 
 Teaching the basic client server model and get multiple instances connected through a collaborative puzzle game.
 
+### 0 Course Promo ###
+
++ Why you should take the course.
++ We overview the journey.
++ What are the prerequisites?
+
+### 0b Introduction to Puzzle Platforms ###
+
++ Overview of the course structure.
++ What will we cover this section.
++ Let's get stuck in!
+
 ### 1 Connecting Two Players ###
 
 + Notes on Unreal versions.
@@ -120,3 +132,9 @@ Teaching the basic client server model and get multiple instances connected thro
 + Introduction to Itch.io.
 + A note on security.
 + Sharing our game.
+
+### 99 Puzzle Platforms Wrap-up ###
+
++ Well done!
++ Get inspired to extend your project.
++ Make sure you're ready for the next section.
