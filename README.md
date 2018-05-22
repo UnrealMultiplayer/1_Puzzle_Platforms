@@ -1,6 +1,10 @@
 # Unreal Multiplayer Course - Section 1 - Puzzle Platforms
 
-Teaching the basic client server model and get multiple instances connected through a collaborative puzzle game.
+In follow up to our hugely successful [Complete Unreal Engine Developer](http://gdev.tv/urcgithub) course we bring you [Unreal Multiplayer Mastery](http://gdev.tv/uemgithub) - as on featured on [Epic's UE4 blog](https://www.unrealengine.com/en-US/blog/getting-started-with-unreal-multiplayer-in-cpp).
+
+In this section we teach the basic client server model and get multiple instances connected through a collaborative puzzle game.
+
+You're welcome to download, fork or do whatever else legal with all the files! The real value is in our huge, high-quality online tutorials that accompany this repo. You can check out the course here: [Unreal Multiplayer Mastery](http://gdev.tv/uemgithub)
 
 ### 0 Course Promo ###
 
